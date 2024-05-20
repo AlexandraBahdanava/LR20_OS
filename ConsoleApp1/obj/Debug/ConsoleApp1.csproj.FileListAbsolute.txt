@@ -1,0 +1,32 @@
+C:\Users\g_dra\Desktop\6Семестр\ТиОПО\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\g_dra\Desktop\6Семестр\ТиОПО\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\g_dra\Desktop\6Семестр\ТиОПО\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\g_dra\Desktop\6Семестр\ТиОПО\Лаба1\MaxAndMin\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\g_dra\Desktop\6Семестр\ТиОПО\Лаба1\MaxAndMin\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\g_dra\Desktop\6Семестр\ТиОПО\Лаба1\MaxAndMin\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\g_dra\Desktop\6Семестр\ТиОПО\Лаба1\MaxAndMin\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\ConsoleApp1.exe.CodeAnalysisLog.xml
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\ConsoleApp1.exe.lastcodeanalysissucceeded
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\nunit.framework.dll
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\nunit.framework.xml
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

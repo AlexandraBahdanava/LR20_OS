@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\g_dra\\Desktop\\6\u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u041B\u0430\u0431\u04301\\MaxAndMin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCBC795-2339-4778-8F9A-667325654358}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\g_dra\\Desktop\\6\u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u041B\u0430\u0431\u04301\\MaxAndMin\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCBC795-2339-4778-8F9A-667325654358}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4301282C-2EA9-423A-93BE-8CD124D1DF43}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|c:\\users\\g_dra\\desktop\\6\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u04301\\maxandmin\\consoleapp1tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4301282C-2EA9-423A-93BE-8CD124D1DF43}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|solutionrelative:consoleapp1tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp1Tests||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "C:\\Users\\g_dra\\Desktop\\6\u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u041B\u0430\u0431\u04301\\MaxAndMin\\ConsoleApp1Tests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Tests\\ProgramTests.cs",
+              "ToolTip": "C:\\Users\\g_dra\\Desktop\\6\u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u041B\u0430\u0431\u04301\\MaxAndMin\\ConsoleApp1Tests\\ProgramTests.cs",
+              "RelativeToolTip": "ConsoleApp1Tests\\ProgramTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:20:08.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\g_dra\\Desktop\\6\u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u041B\u0430\u0431\u04301\\MaxAndMin\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\g_dra\\Desktop\\6\u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u041B\u0430\u0431\u04301\\MaxAndMin\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-11T08:53:45.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp1Tests",
+              "DocumentMoniker": "C:\\Users\\g_dra\\Desktop\\6\u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u041B\u0430\u0431\u04301\\MaxAndMin\\ConsoleApp1Tests\\ConsoleApp1Tests.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1Tests\\ConsoleApp1Tests.csproj",
+              "ToolTip": "C:\\Users\\g_dra\\Desktop\\6\u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u041B\u0430\u0431\u04301\\MaxAndMin\\ConsoleApp1Tests\\ConsoleApp1Tests.csproj",
+              "RelativeToolTip": "ConsoleApp1Tests\\ConsoleApp1Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-10T12:05:55.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\g_dra\\Desktop\\6\u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u041B\u0430\u0431\u04301\\MaxAndMin\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\g_dra\\Desktop\\6\u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u041B\u0430\u0431\u04301\\MaxAndMin\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T10:13:12.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
