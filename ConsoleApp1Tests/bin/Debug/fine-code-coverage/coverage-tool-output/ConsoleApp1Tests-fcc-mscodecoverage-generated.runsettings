@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RunSettings>
   <RunConfiguration>
-    <ResultsDirectory>C:\Users\Alexandra Bahdanava\Downloads\Telegram Desktop\Лаба1\MaxAndMin\ConsoleApp1Tests\bin\Debug\fine-code-coverage\coverage-tool-output</ResultsDirectory>
+    <ResultsDirectory>C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\ConsoleApp1Tests\bin\Debug\fine-code-coverage\coverage-tool-output</ResultsDirectory>
     <TestAdaptersPaths>C:\Users\Alexandra Bahdanava\AppData\Local\FineCodeCoverage\msCodeCoverage\17.9.0\build\netstandard2.0</TestAdaptersPaths>
     <CollectSourceInformation>False</CollectSourceInformation>
   </RunConfiguration>
@@ -14,7 +14,7 @@
               <Exclude></Exclude>
               <Include>
                 <ModulePath>.*\\ConsoleApp1.dll$</ModulePath>
-                <ModulePath>C:\\Users\\Alexandra Bahdanava\\Downloads\\Telegram Desktop\\Лаба1\\MaxAndMin\\ConsoleApp1Tests\\bin\\Debug\\ConsoleApp1Tests.dll</ModulePath>
+                <ModulePath>C:\\Users\\Alexandra Bahdanava\\Desktop\\6 семестр\\ОС\\LR20_OS\\ConsoleApp1Tests\\bin\\Debug\\ConsoleApp1Tests.dll</ModulePath>
               </Include>
             </ModulePaths>
             <Functions>
