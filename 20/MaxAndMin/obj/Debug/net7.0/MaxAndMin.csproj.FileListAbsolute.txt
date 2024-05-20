@@ -1,0 +1,14 @@
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\bin\Debug\net7.0\MaxAndMin.exe
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\bin\Debug\net7.0\MaxAndMin.deps.json
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\bin\Debug\net7.0\MaxAndMin.runtimeconfig.json
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\bin\Debug\net7.0\MaxAndMin.dll
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\bin\Debug\net7.0\MaxAndMin.pdb
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\obj\Debug\net7.0\MaxAndMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\obj\Debug\net7.0\MaxAndMin.AssemblyInfoInputs.cache
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\obj\Debug\net7.0\MaxAndMin.AssemblyInfo.cs
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\obj\Debug\net7.0\MaxAndMin.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\obj\Debug\net7.0\MaxAndMin.dll
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\obj\Debug\net7.0\refint\MaxAndMin.dll
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\obj\Debug\net7.0\MaxAndMin.pdb
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\obj\Debug\net7.0\MaxAndMin.genruntimeconfig.cache
+C:\Users\Alexandra Bahdanava\Desktop\6 семестр\ОС\LR20_OS\20\MaxAndMin\obj\Debug\net7.0\ref\MaxAndMin.dll
